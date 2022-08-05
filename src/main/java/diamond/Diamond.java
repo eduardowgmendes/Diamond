@@ -2,7 +2,7 @@ package diamond;
 
 public class Diamond {
     public static void main(String[] args) {
-        int size = 25; // Nunca em hipótese nenhuma nesse mundo coloque Integer.MAX_VALUE
+        int size = 5; // Nunca em hipótese nenhuma nesse mundo coloque Integer.MAX_VALUE
         int alpha = 65;
 
         // Pirâmide superior
